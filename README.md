@@ -14,3 +14,7 @@ https://distill.pub/2021/gnn-intro/
 https://blogs.nvidia.com/blog/what-are-graph-neural-networks/
 
 http://arxiv.org/pdf/1812.08434
+
+https://everythingdevops.dev/overview-of-the-apple-m1-chip-architecture/
+
+https://metaltutorial.com/
