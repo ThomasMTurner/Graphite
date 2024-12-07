@@ -8,6 +8,7 @@ https://realpython.com/python-bindings-overview/
 https://www.w3resource.com/cpp-exercises/basic/index.php
 
 https://www.learncpp.com/cpp-tutorial/introduction-to-iostream-cout-cin-and-endl/
+
 https://distill.pub/2021/gnn-intro/
 
 https://blogs.nvidia.com/blog/what-are-graph-neural-networks/
