@@ -1,2 +1,2 @@
-# Eucalyptus
-GPU-accelerated gradient boosting library using Metal, aiming to build rapid trees on apple silicon.
+# Graphite
+GPU-accelerated GNN C++ / Python (binded) library using Metal, aiming to build agile networks on apple silicon.
