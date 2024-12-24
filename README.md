@@ -18,3 +18,5 @@ http://arxiv.org/pdf/1812.08434
 https://everythingdevops.dev/overview-of-the-apple-m1-chip-architecture/
 
 https://metaltutorial.com/
+
+https://www.idpoisson.fr/volkov/C++.pdf
